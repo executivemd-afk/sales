@@ -33,4 +33,4 @@ npm run preview
 - src/App.jsx (component)
 - src/index.css (สไตล์)
 
-หมายเหตุ: index.html ถูกตั้งค่าให้โหลด `/src/main.jsx` อยู่แล้ว
+    หมายเหตุ: index.html ถูกตั้งค่าให้โหลด `/src/main.jsx` อยู่แล้ว
