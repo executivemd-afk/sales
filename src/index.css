@@ -1,0 +1,8 @@
+:root { --bg: #f7f8fc; --card: #fff; --accent: #2563eb; }
+*{box-sizing:border-box}
+body{margin:0;font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;background:var(--bg);color:#0f172a;display:flex;align-items:center;justify-content:center;height:100vh}
+.app{width:380px;padding:24px;background:var(--card);border-radius:12px;box-shadow:0 6px 18px rgba(2,6,23,0.08);text-align:center}
+h1{margin:0 0 8px;font-size:20px}
+p{margin:0 0 20px;color:#475569}
+.checkin{background:var(--accent);color:white;border:none;padding:12px 20px;border-radius:8px;font-size:16px;cursor:pointer}
+.checkin:hover{opacity:0.95}
